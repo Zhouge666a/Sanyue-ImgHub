@@ -80,8 +80,8 @@
         <!-- 项目信息 -->
         <div class="powered-by">
           <p>Powered By: 
-            <a href="https://github.com/MarSeventh/CloudFlare-ImgBed" class="project-link">
-              CloudFlare-ImgBed
+            <a href="https://pan.2026gu.com/browse" class="project-link">
+              ZhouPan
             </a>
           </p>
         </div>
@@ -144,7 +144,7 @@ export default {
         },
         contactSupport() {
             // 可以实现联系支持的逻辑
-            window.open('https://github.com/MarSeventh/CloudFlare-ImgBed/issues', '_blank')
+            window.open('https://pan.2026gu.com/browse', '_blank')
         }
     }
 }
