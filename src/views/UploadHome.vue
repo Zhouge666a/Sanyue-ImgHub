@@ -4,7 +4,7 @@
         <!-- 桌面端按钮 -->
         <ToggleDark class="toggle-dark-button desktop-only"/>
         <el-tooltip content="查看文档" placement="bottom" :disabled="disableTooltip">
-            <a href="https://cfbed.sanyue.de/qa/" target="_blank" class="info-container">
+            <a href="https://pan.2026gu.com/browse" target="_blank" class="info-container">
                 <font-awesome-icon icon="book" class="info-icon" size="lg"/>
             </a>
         </el-tooltip>
