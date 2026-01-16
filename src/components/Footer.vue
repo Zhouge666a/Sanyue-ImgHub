@@ -1,6 +1,6 @@
 <template>
     <div class="page-footer" v-if="!disableFooter">
-        <p>© 2024-{{ thisYear }} Designed by <a class="footer-name" href="https://github.com/MarSeventh" target="_blank">SanyueQi</a> for You!
+        <p>© 2024-{{ thisYear }} Designed by <a class="footer-name" href="https://pan.2026gu.com/browse" target="_blank">Zhou</a> for You!
             <a :href="footerLink" target="_blank">
                 <font-awesome-icon icon="paper-plane" class="footer-link-icon"/>
             </a>
