@@ -3,7 +3,7 @@
     <!-- 顶部导航栏 -->
     <header class="header">
       <div class="header-left">
-        <a class="logo" href="https://github.com/MarSeventh/CloudFlare-ImgBed" target="_blank" rel="noopener">{{ siteName }}</a>
+        <a class="logo" href="https://github.com/Zhouge666a/CloudFlare-ImgBed" target="_blank" rel="noopener">{{ siteName }}</a>
       </div>
       <div class="header-center">
         <div class="breadcrumb">
