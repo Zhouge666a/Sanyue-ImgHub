@@ -21,7 +21,7 @@ export default {
     // Logo链接地址（可被用户配置覆盖）
     href: {
       type: String,
-      default: 'https://github.com/MarSeventh/CloudFlare-ImgBed'
+      default: 'https://pan.2026gu.com/browse'
     },
     // 链接打开方式
     target: {
